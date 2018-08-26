@@ -6,6 +6,6 @@ Open Zoo is a open-source zoo management simulation game. The aim of the game is
 Nothing!
 
 ## What is planned for the game?
-⋅⋅* A large range of animals.
-⋅⋅* Several win scenarios.
-⋅⋅* Complex visitor AI 
+- A large range of animals.
+- Several win scenarios.
+- Complex visitor AI 
